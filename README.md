@@ -153,15 +153,11 @@ He tocado todo el espectro, desde montar servidores hasta dejar el frontend impe
 ---
 <div align="center">
   <h3>📫 ¿Hablamos?</h3>
-  <p>¿Buscando un desarrollador, quieres montar una <i>jam session</i> o tienes una recomendación de restaurante para Platorama?</p>
-  <p>Escríbeme por LinkedIn, prometo no refactorizar tus mensajes.</p>
-  
-  <p><sub><small><i>(Tecleando a 147 palabras por minuto a lo mejor te contesto antes de que cierres esta pestaña).</i></small></sub></p>
+  <p>¿Buscando un desarrollador, quieres construir tu idea conmigo?</p>
+  <p>Escríbeme por LinkedIn o a través del contacto de mi portfolio, prometo no refactorizar tus mensajes.</p>
   
   <p>
-    <a href="https://www.linkedin.com/in/carlos-b-6a8a9a2b5/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+    <a href="https://www.linkedin.com/in/carlos-b-6a8a9a2b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="http://212.227.94.151/" target="_blank"><img src="https://img.shields.io/badge/Mi_Portfolio-003B57?style=flat&logo=linux-terminal&logoColor=white" alt="Web Portfolio" /></a>
   </p>
   <br>
 </div>
