@@ -1,8 +1,10 @@
 <!--
 
-  ¡AJÁ! Te pillé mirando el código fuente! 
+
+  ¡¡¡¡AJÁ!!!! Te pillé mirando el código fuente!   
   Tranquilo, yo también lo hago... Instinto de programador jaja
-  
+
+    
   Ya que estás escarbando por aquí podría enviarme un mensaje, no? 
   Mándame una solicitud en LinkedIn y dime: "sudo accept-request",
   así sabré que tienes permisos de superusuario y pasas mi Test de Turing personal. 🤖🚫
@@ -12,7 +14,8 @@
   ¡Abre un /pull request/! 🛟
 
   ...(Prometo que mi código es mejor que mis chistes)
-  
+
+
 -->
 
 <div align="center">
@@ -24,7 +27,7 @@
     </a>
   </p>
 
-  <h1>Hola! Soy Carlos Távora 👋</h1>
+  <h1>¡Hola! Soy Carlos Távora 👋</h1>
   <h3>Desarrollador Fullstack & Multiplataforma | Entusiasta del Clean Code</h3>
   
   <p>📍 Sevilla, España</p>
@@ -34,17 +37,24 @@
 
 ## 👨‍💻 Sobre mí
 
-Llevo **más de 7 años programando**. Mi viaje en la tecnología es un poco inusual: mi carrera profesional empezó como **técnico electrónico** (en electrónica aeroespacial y diseño de PCBs). Aunque era un trabajo gratificante, desde los 17 años ya pasaba horas programando, pues me **encantaba** el diseño de videojuegos. Tras varios años programando como hobbie, decidí que era lo que más me gustaba y me titulé en **Desarrollo de Aplicaciones Web (DAW)** y **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Empecé desarrollando sistemas de control remoto para dispositivos iOS y hoy en día me especializo en **desarrollo Web Fullstack (ERPs y CRMs)** y **Aplicaciones Multiplataforma**.
+Llevo más de 7 años escribiendo código (y borrándolo, para qué engañarnos). Mi viaje en la tecnología fue tal que así:
 
-*   🏛️ **Mi filosofía programando:** Ante todo, el código debe seguir **arquitecturas limpias**. Eso de crear código espagueti e ir dejando arquitecturas sucias no me parece nada cool. Además, estudiar patrones de diseño, principios **SOLID** y **Clean Architecture** es de gente chula: crear código que no solo funcione, sino que sea escalable, mantenible y bonico' por dentro.
-*   🎨 **En el Frontend:** Me gusta crear interfaces agradables, intuitivas y, por qué no, un poco divertidas.
-*   📝 **Documentación:** Parece broma pero disfruto documentando mi trabajo: Sin documentación límpia un proyecto no puede ser profesional.
+Empecé mi carrera como técnico electrónico en electrónica aeroespacial y diseño de PCBs. Aunque me encantaba el hardware, desde los 17 años mi pasión era programar videojuegos en mi tiempo libre. Al final, el lado oscuro (el del software) me sedujo: Dejé mi trabajo, me licencié en Desarrollo de Aplicaciones Web (DAW) y Multiplataforma (DAM), y cambié los transistores por el código.
+
+Al principio trabajé desarrollando sistemas de control remoto para iOS y actualmente me especializo en desarrollo Web Fullstack (Especialmente Servidores, ERPs y CRMs) y Aplicaciones Multiplataforma (Android Studio con Compose Multiplatform).
+
+
+## Sobre mi código
+
+* 🏛️ Arquitectura: El código espagueti lo prefiero en el plato, no en el repositorio. Soy firme defensor de las arquitecturas limpias: si al leer tu propio código un mes después quieres llorar, algo has hecho mal. Aplicar patrones de diseño, principios SOLID y Clean Architecture es de gente chula. Mi objetivo es que el código no solo funcione para salir del paso, sino que sea escalable, mantenible y bonico' por dentro.
+* 🎨 En el Frontend: Me gusta crear interfaces minimalistas/modernas, agradables, intuitivas y, por qué no, con un toque divertido.
+* 📝 Documentación: El mito es real: existimos devs a los que nos gusta documentar. Todo proyecto necesita una buena documentación para ser profesional así que me esfuerzo en que así sea.
 
 ## 🎸 El Humano detrás del código
 
-Parecerá imposible, ¡pero también tengo vida fuera de esto! Cuando no estoy refactorizando código o planificando una base de datos:
-*   🎹 **Soy músico:** Toco el piano, la guitarra, el saxofón y me atrevo con varios instrumentos más.
-*   🌍 **Me encantan los idiomas:** Hablo **Inglés (C1)**, **Coreano**, y actualmente estoy en plena batalla estudiando **Chino**.
+Por inóspito que parezca también tengo vida fuera del curro. Cuando no estoy refactorizando código:
+*   🎹 **Soy músico:** Toco el piano, la guitarra, el saxofón y en general me lo paso bien componiendo y estudiando teoría musical.
+*   🌍 **Intento de políglota:** Hablo **Inglés (C1)**, **Coreano**, y actualmente estoy en plena batalla estudiando **Chino** (Pregúntame sobre los palacios mentales en el aprendizaje de idiomas).
 *   ⌨️​ **Me flipa la mecanografía:** Tanto tiempo tecleando me hizo practicar seriamente y a día de hoy estoy en el top mundial español de mecanografía, con un récord de **147 palabras por minuto** (Sí, pico código bastante rápido jaja).
 
 ---
@@ -56,25 +66,54 @@ He tocado todo el espectro, desde montar servidores hasta dejar el frontend impe
 **Desarrollo Multiplataforma & Móvil**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 
-**Desarrollo Web (Fullstack, CRMs, ERPs)**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+**Desarrollo Web & Frameworks**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**E-commerce, ERPs & CMS**  
+![PrestaShop](https://img.shields.io/badge/PrestaShop-df0067?style=flat&logo=prestashop&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Dolibarr](https://img.shields.io/badge/Dolibarr_ERP-2980B9?style=flat)
 
-**Lenguajes Adicionales**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+**Infraestructura, DevOps & Herramientas**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**Bases de Datos**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+**Bases de Datos (SGBD)**  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-FFD43B?style=flat)
+
+**Game Dev & Otros Lenguajes**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white)
+![Bash](https://img.shields.io/badge/Terminal/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 **Arquitectura & Conceptos**  
-`Clean Architecture` `Design Patterns` `SOLID Principles` `REST APIs` `OAuth 2.0` `Room` 
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-607D8B?style=flat)
+![MVVM](https://img.shields.io/badge/MVVM-607D8B?style=flat)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-607D8B?style=flat)
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-607D8B?style=flat)
+![REST APIs](https://img.shields.io/badge/REST_APIs-607D8B?style=flat)
+![Alojamiento Web](https://img.shields.io/badge/Alojamiento_Web-2C3E50?style=flat)
 
 ---
 
@@ -96,14 +135,14 @@ He tocado todo el espectro, desde montar servidores hasta dejar el frontend impe
 
 ## 💼 Experiencia Profesional
 
-*   💻 **Programador Web** | *Al Rescate Asistencia Informática* (Jun 2023 - Nov 2023)
-    *   Desarrollo de aplicaciones web y programación en PHP.
+*   💻 **Programador Web** | *Al Rescate Asistencia Informática* (Jun 2023 - Nov 2023 y finales 2024)
+    *   Desarrollo de aplicaciones web ERP y CRM.
+*   🍏 **Técnico Electrónico y Gestión Apple** | *Goldenmac EDU (Grupo K-tuin)* (Jul 2020 - Nov 2020)
+    *   Gestión remota de dispositivos Apple para uso académico y servicio técnico.
 *   🔌 **Técnico Electrónico** | *NEED TECH* (Feb 2021 - Abr 2022)
     *   Análisis, diseño de circuitos, montaje automático SMD, soldadura por ola y testeo de PCBs. Resolución de problemas a nivel de componente.
-*   🍏 **Técnico Electrónico y Gestión Apple** | *Goldenmac EDU (Grupo K-tuin)* (Jul 2020 - Nov 2020)
-    *   Gestión remota de dispositivos Apple para uso académico, servicio técnico y ventas.
-*   🔬 **Prácticas (Testing Electrónico)** | *ALTER TECHNOLOGY TÜV NORD* (Mar 2018 - Jul 2018)
-    *   Testeo riguroso y pruebas de estrés de componentes electrónicos bajo múltiples escenarios.
+*   🔬 **Testing Electrónico** | *ALTER TECHNOLOGY TÜV NORD* (Mar 2018 - Jul 2018)
+    *   Testeo riguroso y pruebas de estrés de componentes electrónicos para uso aeroespacial.
 
 ## 🎓 Educación
 
@@ -128,14 +167,11 @@ He tocado todo el espectro, desde montar servidores hasta dejar el frontend impe
 </div>
 
 <div align="center">
-  <i>Frase chula final para que me contactes:</i>
+  <!--<i>Frase chula final para que me contactes:</i>-->
   <p>
     <i>"El buen código es como la buena música: requiere estructura, práctica, y saber cuándo hacer un silencio (o dejar un comentario)."</i> 🎷
   </p>
 </div>
-
-
-
 
 <!-- 
   ¿Aún sigues leyendo? 
