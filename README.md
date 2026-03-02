@@ -37,25 +37,8 @@
 
 ## 👨‍💻 Sobre mí
 
-Llevo más de 7 años escribiendo código (y borrándolo, para qué engañarnos). Mi viaje en la tecnología fue tal que así:
-
-Empecé mi carrera como técnico electrónico en electrónica aeroespacial y diseño de PCBs. Aunque me encantaba el hardware, desde los 17 años mi pasión era programar videojuegos en mi tiempo libre. Al final, el lado oscuro (el del software) me sedujo: Dejé mi trabajo, me licencié en Desarrollo de Aplicaciones Web (DAW) y Multiplataforma (DAM), y cambié los transistores por el código.
-
-Al principio trabajé desarrollando sistemas de control remoto para iOS y actualmente me especializo en desarrollo Web Fullstack (Especialmente Servidores, ERPs y CRMs) y Aplicaciones Multiplataforma (Android Studio con Compose Multiplatform).
-
-
-## Sobre mi código
-
-* 🏛️ Arquitectura: El código espagueti lo prefiero en el plato, no en el repositorio. Soy firme defensor de las arquitecturas limpias: si al leer tu propio código un mes después quieres llorar, algo has hecho mal. Aplicar patrones de diseño, principios SOLID y Clean Architecture es de gente chula. Mi objetivo es que el código no solo funcione para salir del paso, sino que sea escalable, mantenible y bonico' por dentro.
-* 🎨 En el Frontend: Me gusta crear interfaces minimalistas/modernas, agradables, intuitivas y, por qué no, con un toque divertido.
-* 📝 Documentación: El mito es real: existimos devs a los que nos gusta documentar. Todo proyecto necesita una buena documentación para ser profesional así que me esfuerzo en que así sea.
-
-## 🎸 El Humano detrás del código
-
-Por inóspito que parezca también tengo vida fuera del curro. Cuando no estoy refactorizando código:
-*   🎹 **Soy músico:** Toco el piano, la guitarra, el saxofón y en general me lo paso bien componiendo y estudiando teoría musical.
-*   🌍 **Intento de políglota:** Hablo **Inglés (C1)**, **Coreano**, y actualmente estoy en plena batalla estudiando **Chino** (Pregúntame sobre los palacios mentales en el aprendizaje de idiomas).
-*   ⌨️​ **Me flipa la mecanografía:** Tanto tiempo tecleando me hizo practicar seriamente y a día de hoy estoy en el top mundial español de mecanografía, con un récord de **147 palabras por minuto** (Sí, pico código bastante rápido jaja).
+Llevo más de 7 años escribiendo código (y borrándolo, para qué engañarnos).
+Me especializo en desarrollo Web Fullstack (Especialmente Servidores, ERPs y CRMs) y Aplicaciones Multiplataforma (Android Studio con Compose Multiplatform).
 
 ---
 
@@ -134,28 +117,18 @@ He tocado todo el espectro, desde montar servidores hasta dejar el frontend impe
 
 ---
 
-## 💼 Experiencia Profesional
+## 🎸 El Humano detrás del código
 
-*   💻 **Programador Web** | *Al Rescate Asistencia Informática* (Jun 2023 - Nov 2023 y finales 2024)
-    *   Desarrollo de aplicaciones web ERP y CRM.
-*   🍏 **Técnico Electrónico y Gestión Apple** | *Goldenmac EDU (Grupo K-tuin)* (Jul 2020 - Nov 2020)
-    *   Gestión remota de dispositivos Apple para uso académico y servicio técnico.
-*   🔌 **Técnico Electrónico** | *NEED TECH* (Feb 2021 - Abr 2022)
-    *   Análisis, diseño de circuitos, montaje automático SMD, soldadura por ola y testeo de PCBs. Resolución de problemas a nivel de componente.
-*   🔬 **Testing Electrónico** | *ALTER TECHNOLOGY TÜV NORD* (Mar 2018 - Jul 2018)
-    *   Testeo riguroso y pruebas de estrés de componentes electrónicos para uso aeroespacial.
-
-## 🎓 Educación
-
-*   🖥️ **Desarrollo de Aplicaciones Web (DAW)** (Sep 2025 - Ene 2026)
-*   📱 **Desarrollo de Aplicaciones Multiplataforma (DAM)** (Ago 2022 - Jun 2024)
-*   ⚡ **Mantenimiento Electrónico** 
+Por inóspito que parezca también tengo vida fuera del curro. Cuando no estoy refactorizando código:
+*   🎹 **Soy músico:** Toco el piano, la guitarra, el saxofón y en general me lo paso bien componiendo y estudiando teoría musical.
+*   🌍 **Intento de políglota:** Hablo **Inglés (C1)**, **Coreano**, y actualmente estoy en plena batalla estudiando **Chino** (Pregúntame sobre los palacios mentales en el aprendizaje de idiomas).
+*   ⌨️​ **Me flipa la mecanografía:** Tanto tiempo tecleando me hizo practicar seriamente y a día de hoy estoy en el top mundial español de mecanografía, con un récord de **147 palabras por minuto** (Sí, pico código bastante rápido jaja).
 
 ---
 <div align="center">
   <h3>📫 ¿Hablamos?</h3>
-  <p>¿Buscando un desarrollador, quieres construir tu idea conmigo?</p>
-  <p>Escríbeme por LinkedIn o a través del contacto de mi portfolio, prometo no refactorizar tus mensajes.</p>
+  <p>¿Buscando un desarrollador? Estaré encantado de construir tu idea!</p>
+  <p>Escríbeme a través del contacto de mi portfolio o ,si lo prefieres, por Linkedin (prometo no refactorizar tus mensajes).</p>
   
   <p>
     <a href="https://www.linkedin.com/in/carlos-b-6a8a9a2b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="http://212.227.94.151/" target="_blank"><img src="https://img.shields.io/badge/Mi_Portfolio-003B57?style=flat&logo=linux-terminal&logoColor=white" alt="Web Portfolio" /></a>
