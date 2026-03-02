@@ -37,25 +37,8 @@
 
 ## 👨‍💻 About Me
 
-I've been writing code for over 7 years (and deleting it, let's be honest). My journey in tech went something like this:
-
-I started my career as an electronics technician working with aerospace electronics and PCB design. Even though I loved hardware, since I was 17 my true passion was programming video games in my free time. Eventually, the dark side (software) seduced me: I quit my job, got degrees in Web Application Development (DAW) and Cross-Platform Application Development (DAM), and swapped transistors for code.
-
-At first, I developed remote control systems for iOS, and currently, I specialize in Fullstack Web Development (especially Servers, ERPs, and CRMs) and Cross-Platform Apps (Android Studio with Compose Multiplatform).
-
-
-## About my code
-
-* 🏛️ **Architecture:** I prefer spaghetti code on my plate, not in my repositories. I am a firm believer in clean architectures: if reading your own code a month later makes you want to cry, you did something wrong. Applying design patterns, SOLID principles, and Clean Architecture is for cool people. My goal is for the code to not just "work to get by," but to be scalable, maintainable, and *beautiful on the inside*.
-* 🎨 **On the Frontend:** I like to create interfaces that are minimalist/modern, visually pleasing, intuitive, and why not, with a fun touch.
-* 📝 **Documentation:** The myth is real: developers who love documenting actually exist. Every project needs good documentation to be considered professional, so I strive to make that happen.
-
-## 🎸 The Human behind the code
-
-However inhospitable it may seem, I also have a life outside of work. When I'm not refactoring code:
-*   🎹 **I'm a musician:** I play the piano, guitar, saxophone, and generally enjoy composing and studying music theory.
-*   🌍 **Aspiring polyglot:** I speak **English (C1)**, **Korean**, and I'm currently battling with **Chinese** (Ask me about memory palaces in language learning).
-*   ⌨️​ **I'm crazy about typing:** So much time typing made me practice seriously, and today I rank among the top Spanish typists globally, with a record of **147 words per minute** (Yeah, I write code pretty fast haha).
+I've been writing code for over 7 years (and deleting it, let's be honest).
+I specialize in Fullstack Web Development (especially Servers, ERPs, and CRMs) and Cross-Platform Apps (Android Studio with Compose Multiplatform).
 
 ---
 
@@ -133,22 +116,12 @@ I've touched the whole spectrum, from setting up servers to leaving the frontend
 
 ---
 
-## 💼 Professional Experience
+## 🎸 The Human behind the code
 
-*   💻 **Web Programmer** | *Al Rescate Asistencia Informática* (Jun 2023 - Nov 2023 & late 2024)
-    *   Development of ERP and CRM web applications.
-*   🍏 **Electronics & Apple Management Technician** | *Goldenmac EDU (K-tuin Group)* (Jul 2020 - Nov 2020)
-    *   Remote management of Apple devices for academic use and technical support.
-*   🔌 **Electronics Technician** | *NEED TECH* (Feb 2021 - Apr 2022)
-    *   Analysis, circuit design, automated SMD assembly, wave soldering, and PCB testing. Component-level troubleshooting.
-*   🔬 **Electronics Testing** | *ALTER TECHNOLOGY TÜV NORD* (Mar 2018 - Jul 2018)
-    *   Rigorous testing and stress-testing of electronic components for aerospace use.
-
-## 🎓 Education
-
-*   🖥️ **Web Application Development (DAW)** (Sep 2025 - Jan 2026)
-*   📱 **Cross-Platform Application Development (DAM)** (Aug 2022 - Jun 2024)
-*   ⚡ **Electronic Maintenance** 
+However inhospitable it may seem, I also have a life outside of work. When I'm not refactoring code:
+*   🎹 **I'm a musician:** I play the piano, guitar, saxophone, and generally enjoy composing and studying music theory.
+*   🌍 **Aspiring polyglot:** I speak **English (C1)**, **Korean**, and I'm currently battling with **Chinese** (Ask me about memory palaces in language learning).
+*   ⌨️​ **I'm crazy about typing:** So much time typing made me practice seriously, and today I rank among the top Spanish typists globally, with a record of **147 words per minute** (Yeah, I write code pretty fast haha).
 
 ---
 <div align="center">
